@@ -1,3 +1,7 @@
 package one.digitalinnovation.digionebank
 
-data class Banco()
+// o banco sera uma classe imutavel
+data class Banco(
+    val nome: String,
+    val numero: Int
+)
