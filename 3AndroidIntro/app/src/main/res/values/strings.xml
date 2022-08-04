@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">3Android Intro</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txt_button">Botão de simulação de partidas</string>
+    <string name="txt_home_team">Imagem do time mandante</string>
+    <string name="txt_versus">x</string>
+    <string name="txt_away_team_image">Imagem do time visitante</string>
 </resources>
